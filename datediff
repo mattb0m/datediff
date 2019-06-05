@@ -4,7 +4,7 @@ start="now"
 end="now"
 format=""
 help="
-Usage: $0 [--start \"date\"] [--end \"date\"] [-m|-h|-d]|[-h]
+Usage: $0 [--start \"date\"] [--end \"date\"] [-m|-h|-d]|[--help]
 
     Calculates the difference between a start and end date, in seconds. Dates default to 'now'.
     Additional flag can be supplied to output difference in alternate units.
